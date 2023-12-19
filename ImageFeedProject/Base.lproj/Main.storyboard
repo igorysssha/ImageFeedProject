@@ -86,7 +86,7 @@
                             <constraint firstAttribute="trailingMargin" secondItem="f3m-oF-RtP" secondAttribute="trailing" id="hu3-rR-TE5"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" image="tab_editorial_active" id="bxf-iv-cJX"/>
+                    <tabBarItem key="tabBarItem" title="" image="tab_editorial_active" id="bxf-iv-cJX" userLabel="Tab Bar Item"/>
                     <navigationItem key="navigationItem" id="4Qd-Tj-FcH"/>
                     <connections>
                         <outlet property="tableView" destination="f3m-oF-RtP" id="ZXj-pj-0pl"/>
