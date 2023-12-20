@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< Updated upstream
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="FiX-CK-cGx">
+=======
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+>>>>>>> Stashed changes
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
@@ -86,7 +90,11 @@
                             <constraint firstAttribute="trailingMargin" secondItem="f3m-oF-RtP" secondAttribute="trailing" id="hu3-rR-TE5"/>
                         </constraints>
                     </view>
+<<<<<<< Updated upstream
                     <tabBarItem key="tabBarItem" title="Item" image="tab_editorial_active" id="bxf-iv-cJX"/>
+=======
+                    <tabBarItem key="tabBarItem" title="" image="tab_editorial_active" id="bxf-iv-cJX" userLabel="Tab Bar Item"/>
+>>>>>>> Stashed changes
                     <navigationItem key="navigationItem" id="4Qd-Tj-FcH"/>
                     <connections>
                         <outlet property="tableView" destination="f3m-oF-RtP" id="ZXj-pj-0pl"/>
@@ -214,10 +222,14 @@
     <resources>
         <image name="0" width="200" height="132"/>
         <image name="Active" width="44" height="44"/>
+<<<<<<< Updated upstream
         <image name="Backward" width="24" height="24"/>
         <image name="Sharing" width="51" height="50"/>
         <image name="tab_editorial_active" width="30" height="30"/>
         <image name="tab_profile_active" width="30" height="30"/>
+=======
+        <image name="tab_editorial_active" width="30" height="30"/>
+>>>>>>> Stashed changes
         <namedColor name="YP Black">
             <color red="0.10199999809265137" green="0.10599999874830246" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
